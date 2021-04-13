@@ -10,7 +10,12 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+<<<<<<< HEAD
             Console.WriteLine("Punya Alfi");
+=======
+
+            Console.WriteLine("Punya Habibie");
+>>>>>>> Habibie
         }
     }
 }
